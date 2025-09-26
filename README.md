@@ -77,7 +77,7 @@
   <a href="https://github.com/Aishakhan-ak/Dart.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AishaKhan-ak&repo=Dart&theme=dracula&hide_border=true" alt="Dart" />
   </a>
-  <a href=https://github.com/Aishakhan-ak/CppLearningJourney.git">
+  <a href="https://github.com/Aishakhan-ak/CppLearningJourney.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AishaKhan-ak&repo=CppLearningJourney&theme=dracula&hide_border=true" alt="CppLearningJourney" />
   </a>
 </div>
