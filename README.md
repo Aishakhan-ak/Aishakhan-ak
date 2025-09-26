@@ -47,29 +47,53 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aishakhan-ak&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aishakhan-ak&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishakhan-ak&layout=compact&theme=dracula&hide_border=true" height="180" alt="Top Languages" />
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aishakhan-ak&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+### ⭐ Contributions & Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aishakhan-ak&show_icons=true&theme=dracula&hide_border=true&count_private=true&cache_seconds=1800" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishakhan-ak&layout=compact&theme=dracula&hide_border=true" height="180" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aishakhan-ak&theme=dracula" alt="Profile Details" />
+  <br/>
+  <img src="https://img.shields.io/github/stars/Aishakhan-ak?affiliations=OWNER&style=flat-square&logo=github&color=FFD700" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/Aishakhan-ak?style=flat-square&logo=github&color=1E90FF" alt="Followers" />
 </div>
 
 ---
 
 ### 🚀 Pinned Repositories
 <div align="center">
-  <a href="https://github.com/Aishakhan-ak/Dart.git">
+  <a href="https://github.com/aishakhan/dart-projects">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aishakhan&repo=dart-projects&theme=dracula&hide_border=true" alt="Dart Projects Repo" />
   </a>
-  <a href="https://github.com/Aishakhan-ak/CppLearningJourney.git">
+  <a href="https://github.com/aishakhan/cpp-basics">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aishakhan&repo=cpp-basics&theme=dracula&hide_border=true" alt="C++ Basics Repo" />
   </a>
+</div>
+
+---
+
+### 🐍 Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aishakhan/aishakhan/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</div>
+
+---
+
+### 💬 Developer Motto
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Code+with+Clarity.;Learn+with+Consistency.;Build+with+Passion." alt="Developer Motto" />
 </div>
 
 ---
