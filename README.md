@@ -1,10 +1,10 @@
 <div align="center">
   <h1>👋 Hi, I'm Aisha Khan</h1>
-  <h3>Aspiring Flutter Developer | Dart & Python | C & C++</h3>
+  <h3>Aspiring Flutter Developer | Dart | Python | C | C++</h3>
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=BSCS+Student+%F0%9F%8E%93;Learning+Mobile+App+Development+with+Flutter+%F0%9F%93%B1;Mastering+Dart%2C+C%2C+C%2B%2B+%26+Python;Exploring+Programming+Concepts+Step+by+Step" alt="Typing SVG" />
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=BS+CS+Student+%F0%9F%93%93;Learning+Flutter+Development+%F0%9F%93%B1;Mastering+Dart%2C+Python+%26+C%2B%2B;Exploring+AI+%26+Innovation+%F0%9F%92%A1" alt="Typing SVG" />
+</p>
 </div>
 
 ---
