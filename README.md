@@ -86,7 +86,7 @@
 
 ### 🐍 Contribution Snake
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Aishakhan-ak/ Readme/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Aishakhan-ak/Aishakhan/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>
 
 ---
