@@ -47,6 +47,13 @@
 
 ---
 
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aishakhan-ak&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</div>
+
+---
+
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aishakhan-ak&show_icons=true&theme=dracula&hide_border=true&count_private=true&cache_seconds=1800" height="180" alt="GitHub Stats" />
