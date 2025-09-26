@@ -42,15 +42,15 @@
 
 ### 🔥 GitHub Streak
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=aishakhan&theme=highcontrast&hide_border=true&card_width=450" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Aishakhan-ak&theme=highcontrast&hide_border=true&card_width=450" alt="GitHub Streak" />
 </div>
 
 ---
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aishakhan&show_icons=true&theme=dracula&hide_border=true&count_private=true&cache_seconds=1800" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishakhan&layout=compact&theme=dracula&hide_border=true" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aishakhan-ak&show_icons=true&theme=dracula&hide_border=true&count_private=true&cache_seconds=1800" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishakhan-ak&layout=compact&theme=dracula&hide_border=true" height="180" alt="Top Languages" />
 </div>
 
 ---
@@ -69,13 +69,13 @@
 
 ### 📫 Connect With Me
 <div align="center">
-  <a href="https://www.linkedin.com/in/aisha-khan-8556aa329/">
+  <a href="https://www.linkedin.com/in/aisha-khan-55563637b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:aishakhan@example.com">
+  <a href="mailto:aishakhanakb997@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.instagram.com/">
+  <a href="https://www.instagram.com/codewith_aishakhan/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
