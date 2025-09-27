@@ -75,7 +75,7 @@
 ### 🚀 Pinned Repositories
 <div align="center">
   <a href="https://github.com/Aishakhan-ak/Dart.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aishakhan-ak&repo=Dart&theme=dracula&hide_border=true" alt="Dart Repo" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aishakhan-ak&repo=Dart&theme=dracula&hide_border=true&cache_seconds=60" />
   </a>
   <a href="https://github.com/Aishakhan-ak/CppLearningJourney.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aishakhan-ak&repo=CppLearningJourney&theme=dracula&hide_border=true" alt="C++ Learning Journey" />
