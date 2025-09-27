@@ -84,17 +84,10 @@
 
 ---
 
-### 🐍 Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Aishakhan-ak/Aishakhan/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</div>
-
----
-
-### 💬 Developer Motto
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Code+with+Clarity.;Learn+with+Consistency.;Build+with+Passion." alt="Developer Motto" />
-</div>
+### ✨ Fun Facts
+- ☕ **Coffee to Code**: I transform caffeine into Flutter apps!  
+- 🤖 **AI Explorer**: Experimenting with AI to build smarter mobile solutions.  
+- 💡 **Problem Solver**: Passionate about coding solutions for real-world challenges.
 
 ---
 
@@ -109,6 +102,20 @@
   <a href="https://www.instagram.com/codewith_aishakhan/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+</div>
+
+---
+
+### 🐍 Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Aishakhan-ak/Aishakhan/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</div>
+
+---
+
+### 💬 Developer Motto
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Code+with+Clarity.;Learn+with+Consistency.;Build+with+Passion." alt="Developer Motto" />
 </div>
 
 ---
